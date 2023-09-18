@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1694655218 source:d:\code\c_experiment\main.cpp
+	<iostream>
+	"Sqlist.h"
+	"Linklist.h"
+	"set.h"
+
+1694608710 d:\code\c_experiment\link_list.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1694934198 d:\code\c_experiment\sqlist.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1694860036 source:d:\code\c_experiment\linklist.cpp
+	"Sqlist.h"
+	"Linklist.h"
+	"set.h"
+
+1694850168 d:\code\c_experiment\linklist.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1694793133 d:\code\c_experiment\set.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1694934200 source:d:\code\c_experiment\set.cpp
+	"Sqlist.h"
+	"Linklist.h"
+	"set.h"
+
+1694923555 source:d:\code\c_experiment\sqlist.cpp
+	"Sqlist.h"
+	"Linklist.h"
+	"set.h"
+

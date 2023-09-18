@@ -1,0 +1,15 @@
+#ifndef LINK_LIST_H_INCLUDED
+#define LINK_LIST_H_INCLUDED
+
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+
+typedef struct{
+    int *p;
+    int data;
+}link_list;
+
+void menu();
+
+#endif // LINK_LIST_H_INCLUDED
