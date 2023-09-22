@@ -27,7 +27,14 @@ void Selectmenu(){
             case 0:
                 exit(1);
             case 1:
-                Sqlist_merge();
+                Sqlist C,D;
+                InitSqlist(C);
+                InitSqlist(D);
+                printf("输入第一个数组的值：\n");
+                Input(C);
+                printf("输入第一个数组的值：\n");
+                Input(D);
+                Sqlist_merge(C,D);
                 refresh();
                 break;
             case 2:
@@ -39,23 +46,34 @@ void Selectmenu(){
                 LNode_merge(A,B);
                 refresh();
                 break;
-            case 3:
-                int P_max,Q_max;
-                data P[10],Q[10];
-                InitSqlistdata(P,10);
-                InitSqlistdata(Q,10);
+            case 3:{
+                int P_max,Q_max,maxexpn;
+                printf("请输入两多项式中最大的指数：\n");
+                scanf("%d",&maxexpn);
+                data P[maxexpn],Q[maxexpn];
+                InitSqlistdata(P,maxexpn);
+                InitSqlistdata(Q,maxexpn);
                 printf("输入多项式A的值：\n");
                 P_max = Adddata(P);
-                printf("P_max = %d\n",P_max);
                 printf("输入完毕\n");
+                //dataPrint(P,P_max);
                 printf("输入多项式B的值：\n");
                 Q_max = Adddata(Q);
-                printf("Q_max = %d\n",Q_max);
                 printf("输入完毕\n");
+                //dataPrint(Q,Q_max);
                 SqlistdataSum(P,Q,P_max,Q_max);
                 refresh();
                 break;
-            //case 4:LNodeSum(LNode A,LNode B);break:
+            }
+            case 4:
+                polynomial M,N;
+                printf("向多项式A中插入数值：\n");
+                PNodeInsert(M);
+                printf("向多项式B中插入数值：\n");
+                PNodeInsert(N);
+                PNode_merge(M,N);
+                refresh();
+                break;
             default:
                 printf("输入非法字符，重新键入：\n");
                 break;
