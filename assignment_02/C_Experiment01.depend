@@ -50,21 +50,18 @@
 	"menu.h"
 	"partner.h"
 
-1695868841 source:d:\code\c_c++\c_experiment01\expressionevaluation.cpp
+1696733185 source:d:\code\c_c++\c_experiment01\expressionevaluation.cpp
 	"NumberConversion.h"
 	"ExpressionEvaluation.h"
 	"menu.h"
 	"partner.h"
 
-1695698238 d:\code\c_c++\c_experiment01\numberconversion.h
+1696733772 d:\code\c_c++\c_experiment01\numberconversion.h
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
 
-1695868950 d:\code\c_c++\c_experiment01\expressionevaluation.h
-	<stdio.h>
-	<stdlib.h>
-	<string.h>
+1696733198 d:\code\c_c++\c_experiment01\expressionevaluation.h
 
 1695698192 d:\code\c_c++\c_experiment01\menu.h
 	<stdio.h>
@@ -83,7 +80,7 @@
 	"menu.h"
 	"partner.h"
 
-1695868608 source:d:\code\c_c++\c_experiment01\numberconversion.cpp
+1696733946 source:d:\code\c_c++\c_experiment01\numberconversion.cpp
 	"NumberConversion.h"
 	"ExpressionEvaluation.h"
 	"menu.h"
@@ -95,7 +92,7 @@
 	"menu.h"
 	"partner.h"
 
-1695819720 source:d:\code\c_c++\c_experiment01\menu.cpp
+1696680649 source:d:\code\c_c++\c_experiment01\menu.cpp
 	"NumberConversion.h"
 	"ExpressionEvaluation.h"
 	"menu.h"

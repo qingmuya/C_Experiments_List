@@ -1,11 +1,37 @@
-#ifndef EXPRESSIONEVALUATION_H_INCLUDED
-#define EXPRESSIONEVALUATION_H_INCLUDED
+#ifndef SQSTACKCH_H_INCLUDED
+#define SQSTACKCH_H_INCLUDED
+typedef struct{
+    char *base;
+    char *top;
+    int stacksize;
+}SqStackch;
+typedef struct{
+    double *base;
+    double *top;
+    int stacksize;
+}SqStackdo;
 
-#include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
 
 
+void InitStackch(SqStackch &s);
+void InitStackdo(SqStackdo &s);
 
 
-#endif // EXPRESSIONEVALUATION_H_INCLUDED
+void pushch(SqStackch &s,char e);
+void pushnum(SqStackdo &s,double d);
+
+
+char popch(SqStackch &s);
+double popnum(SqStackdo &s);
+
+
+char Get_top_char(SqStackch s);
+double Get_top_num(SqStackdo s);
+
+double Powerop(double a,int n);
+bool JudgeIn(char c);
+char Prioritize(char top,char ch);
+double operate(double a,char cha,double b);
+
+void ExpressionEvaluation();
+#endif // SQSTACKCH_H_INCLUDED

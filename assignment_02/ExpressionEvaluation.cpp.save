@@ -62,7 +62,7 @@ void ExpressionEvaluation(){
                 pushch(opnd,symbol[m++]);
                 break;
             case '>':
-                pushnum(optr,operate(popnum(optr),popch(opnd),popnum(optr)));
+                pushnum(optr,operate(popdo(optr),popch(opnd),popdo(optr)));
                 //大于进行计算
                 break;
             case '=':
@@ -111,7 +111,7 @@ void pushnum(SqStackdo &s,double e){
 }
 
 //数字出栈
-double popnum(SqStackdo &s){
+double popdo(SqStackdo &s){
     return *--s.top;
 }
 

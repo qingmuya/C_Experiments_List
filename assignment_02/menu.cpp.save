@@ -25,9 +25,7 @@ void select_menu(){
                 refresh();
                 break;
             case 2:
-                ExpressionEvaluation();
-                refresh();
-                break;
+                
             case 3:
                 Person man[MAXSIZE];//存储男舞伴的队列
                 Person woman[MAXSIZE];//存储女舞伴的队列
