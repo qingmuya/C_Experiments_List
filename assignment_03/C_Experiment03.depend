@@ -1,0 +1,96 @@
+# depslib dependency file v1.0
+1697028276 source:d:\code\c_c++\c_experiment03\create_btree.cpp
+	"Create_Btree.h"
+	"Ctnon.h"
+	"Cxbl.h"
+	"Dgbl.h"
+	"Fdgzxbl.h"
+	"menu.h"
+
+1697026103 d:\code\c_c++\c_experiment03\create_btree.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<iostream>
+
+1697078722 source:d:\code\c_c++\c_experiment03\ctnon.cpp
+	"Create_Btree.h"
+	"Ctnon.h"
+	"Cxbl.h"
+	"Dgbl.h"
+	"Fdgzxbl.h"
+	"menu.h"
+
+1697076974 d:\code\c_c++\c_experiment03\ctnon.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<iostream>
+
+1697084739 source:d:\code\c_c++\c_experiment03\cxbl.cpp
+	"Create_Btree.h"
+	"Ctnon.h"
+	"Cxbl.h"
+	"Dgbl.h"
+	"Fdgzxbl.h"
+	"menu.h"
+
+1697083149 d:\code\c_c++\c_experiment03\cxbl.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<iostream>
+	"Create_Btree.h"
+
+1697029039 source:d:\code\c_c++\c_experiment03\dgbl.cpp
+	"Create_Btree.h"
+	"Ctnon.h"
+	"Cxbl.h"
+	"Dgbl.h"
+	"Fdgzxbl.h"
+	"menu.h"
+
+1697028489 d:\code\c_c++\c_experiment03\dgbl.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<iostream>
+
+1697077032 source:d:\code\c_c++\c_experiment03\fdgzxbl.cpp
+	"Create_Btree.h"
+	"Ctnon.h"
+	"Cxbl.h"
+	"Dgbl.h"
+	"Fdgzxbl.h"
+	"menu.h"
+
+1697076098 d:\code\c_c++\c_experiment03\fdgzxbl.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<iostream>
+	<cstdio>
+	<cstdlib>
+
+1697028276 source:d:\code\c_c++\c_experiment03\main.cpp
+	"Create_Btree.h"
+	"Ctnon.h"
+	"Cxbl.h"
+	"Dgbl.h"
+	"Fdgzxbl.h"
+	"menu.h"
+
+1697022819 d:\code\c_c++\c_experiment03\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<iostream>
+
+1697074250 source:d:\code\c_c++\c_experiment03\menu.cpp
+	"Create_Btree.h"
+	"Ctnon.h"
+	"Cxbl.h"
+	"Dgbl.h"
+	"Fdgzxbl.h"
+	"menu.h"
+
