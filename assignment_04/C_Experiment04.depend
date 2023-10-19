@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1697703462 source:d:\code\c_c++\c_experiment04\cal_len_huffman.cpp
+	"Cal_len_Huffman.h"
+	"create_Huffman_tree.h"
+	"print_Huffman_code.h"
+	"menu.h"
+
+1697704262 d:\code\c_c++\c_experiment04\cal_len_huffman.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<iostream>
+
+1697704262 d:\code\c_c++\c_experiment04\create_huffman_tree.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<iostream>
+
+1697704262 d:\code\c_c++\c_experiment04\print_huffman_code.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<iostream>
+
+1697628777 d:\code\c_c++\c_experiment04\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<iostream>
+
+1697703539 source:d:\code\c_c++\c_experiment04\create_huffman_tree.cpp
+	"Cal_len_Huffman.h"
+	"create_Huffman_tree.h"
+	"print_Huffman_code.h"
+	"menu.h"
+	<iostream>
+
+1697702746 source:d:\code\c_c++\c_experiment04\menu.cpp
+	"Cal_len_Huffman.h"
+	"create_Huffman_tree.h"
+	"print_Huffman_code.h"
+	"menu.h"
+
+1697703539 source:d:\code\c_c++\c_experiment04\print_huffman_code.cpp
+	"Cal_len_Huffman.h"
+	"create_Huffman_tree.h"
+	"print_Huffman_code.h"
+	"menu.h"
+
+1697628214 source:d:\code\c_c++\c_experiment04\main.cpp
+	<iostream>
+	"Cal_len_Huffman.h"
+	"create_Huffman_tree.h"
+	"print_Huffman_code.h"
+	"menu.h"
+

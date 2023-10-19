@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="create_Huffman_tree.h" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="11" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="362" topLine="3" />
+		</Cursor>
+	</File>
+	<File name="Cal_len_Huffman.h" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="8" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="330" topLine="3" />
+		</Cursor>
+	</File>
+	<File name="print_Huffman_code.cpp" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="12" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2279" topLine="60" />
+		</Cursor>
+	</File>
+	<File name="menu.h" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="6" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="135" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="print_Huffman_code.h" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="9" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="554" topLine="9" />
+		</Cursor>
+	</File>
+	<File name="menu.cpp" open="1" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="8" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="189" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="16" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="182" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="create_Huffman_tree.cpp" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="10" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1555" topLine="44" />
+		</Cursor>
+	</File>
+	<File name="Cal_len_Huffman.cpp" open="1" top="1" tabpos="5" split="0" active="1" splitpos="0" zoom_1="12" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1666" topLine="62" />
+		</Cursor>
+	</File>
+	<EditorTabsLayout layout="08790af06530e9190000128000000002=0;C_Experiment04:main.cpp,1;C_Experiment04:create_Huffman_tree.h,2;C_Experiment04:print_Huffman_code.cpp,3;C_Experiment04:print_Huffman_code.h,*4;C_Experiment04:Cal_len_Huffman.cpp,5;C_Experiment04:Cal_len_Huffman.h,6;C_Experiment04:menu.h,7;C_Experiment04:create_Huffman_tree.cpp,8;C_Experiment04:menu.cpp@layout2|name=dummy;caption=;state=2098174;dir=3;layer=0;row=0;pos=0;prop=100000;bestw=1152;besth=433;minw=1152;minh=433;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=08790af06530e9190000128000000002;caption=;state=2098172;dir=5;layer=0;row=0;pos=0;prop=100000;bestw=300;besth=300;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|dock_size(5,0,0)=302|" />
+</CodeBlocks_layout_file>
