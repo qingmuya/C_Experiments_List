@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1698461663 source:d:\code\c_c++\c_experiment05\menu.cpp
+	"menu.h"
+	"Graph.h"
+	"Function.h"
+
+1698473852 d:\code\c_c++\c_experiment05\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<iostream>
+
+1698288828 source:d:\code\c_c++\c_experiment05\main.cpp
+	<iostream>
+	"menu.h"
+	"Graph.h"
+	"Function.h"
+
+1698490736 source:d:\code\c_c++\c_experiment05\graph.cpp
+	"menu.h"
+	"Graph.h"
+	"Function.h"
+
+1698543447 d:\code\c_c++\c_experiment05\graph.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<iostream>
+	<limits>
+
+1698461730 d:\code\c_c++\c_experiment05\function.h
+
+1698490344 source:d:\code\c_c++\c_experiment05\function.cpp
+	"menu.h"
+	"Graph.h"
+	"Function.h"
+
