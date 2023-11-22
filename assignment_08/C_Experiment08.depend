@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1700659646 source:d:\code\c_c++\c_experiment08\function.cpp
+	"menu.h"
+	"Function.h"
+	"cmath"
+
+1700657323 d:\code\c_c++\c_experiment08\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<iostream>
+	<limits.h>
+
+1700658851 d:\code\c_c++\c_experiment08\function.h
+	<string>
+	<iostream>
+
+1700277331 source:d:\code\c_c++\c_experiment08\main.cpp
+	<iostream>
+	"menu.h"
+
+1700660722 source:d:\code\c_c++\c_experiment08\menu.cpp
+	"menu.h"
+	"Function.h"
+
